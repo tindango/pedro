@@ -1,3 +1,3 @@
 # 🧠 PEDRO
 
-PEDRO is LLM for Philippines.
+PEDRO is LLM for 🇵🇭 Philippines.
